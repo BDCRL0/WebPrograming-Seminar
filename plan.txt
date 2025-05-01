@@ -1,0 +1,18 @@
+├── /assets/
+│   ├── /css/
+│   │   └── style.css
+│   ├── /js/
+│   │   └── script.js
+│   ├── /images/
+│   │   └── (your PNGs, logos, etc.)
+├── /views/
+│   ├── home.php
+│   ├── about.php
+│   ├── gallery.php
+│   ├── contact.php
+│   ├── login.php
+│   ├── register.php
+│   ├── messages.php
+│   └── (maybe extras like header.php, footer.php for reuse)
+├── index.php
+└── config.php
